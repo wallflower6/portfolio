@@ -4,7 +4,7 @@ import {BsXDiamondFill} from 'react-icons/bs'
 
 const Services = () => {
     return (
-        <section id="services">
+        <section id="experience">
             <h5>What I've Done</h5>
             <h2>Work Experience</h2>
 

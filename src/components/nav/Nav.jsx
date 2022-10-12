@@ -16,12 +16,12 @@ const Nav = () => {
             {/* <a href="#about" onClick={() => setActiveNav("#about")} className={activeNav === "#about" ? "active": ""}>
                 <AiOutlineHome />
             </a> */}
-            {/* <a href="#experience" onClick={() => setActiveNav("#experience")} className={activeNav === "#experience" ? "active": ""}>
-                <FaBuromobelexperte />
-            </a> */}
-            <a href="#services" onClick={() => setActiveNav("#services")} className={activeNav === "#services" ? "active": ""}>
+            <a href="#experience" onClick={() => setActiveNav("#experience")} className={activeNav === "#experience" ? "active": ""}>
                 <FaBuromobelexperte />
             </a>
+            {/* <a href="#services" onClick={() => setActiveNav("#services")} className={activeNav === "#services" ? "active": ""}>
+                <FaBuromobelexperte />
+            </a> */}
             <a href="#portfolio" onClick={() => setActiveNav("#portfolio")} className={activeNav === "#portfolio" ? "active": ""}>
                 <BiBook />
             </a>
