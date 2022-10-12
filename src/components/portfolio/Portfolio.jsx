@@ -8,9 +8,9 @@ import CS426 from "../../assets/CS426.pdf"
 const data = [
     {
         id: 0,
-        title: "APAC Cyber Threat Intelligence Feed (with UBS)",
+        title: "APAC Cyber Threat Intelligence Feed (with UBS) - Ongoing",
         desc: "Final-year project. Working on the frontend to display STIX-formatted data obtained from backend services and graphs related to cyber threat intelligence. In partnership with UBS Singapore.",
-        skills: ["WIP", "React", "D3", "Jira", "School"]
+        skills: ["React", "D3", "Jira", "Docker", "School"]
     },
 
     {
@@ -61,9 +61,9 @@ const data = [
     {
         id: 9,
         title: "Stripe Payment Microservice",
-        desc: "Part of a project to gain expertise with CI/CD and DevOps tools. Role: Developed payment microservice with Stripe integration, built CI/CD pipeline for payment microservice.",
+        desc: "Part of a project to gain expertise with GitLab CI/CD and DevOps tools. Role: Developed payment microservice with Stripe integration, built CI/CD pipeline for payment microservice.",
         repo: "https://github.com/wallflower6/CS302-project",
-        skills: ["Java", "Springboot", "GitLab", "School"]
+        skills: ["Java", "Springboot", "Docker", "School"]
     },
 
     {
@@ -104,9 +104,9 @@ const data = [
 
     {
         id: 5,
-        title: "Bookstore E-Commerce Application",
+        title: "Bookstore E-Commerce Application - Ongoing",
         desc: "Project for Cloud Management & Engineering. Working in a team to integrate a microservices application with AWS cloud services.",
-        skills: ["WIP", "AWS", "School"]
+        skills: ["AWS", "School"]
     },
 
     {
