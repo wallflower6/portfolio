@@ -103,6 +103,14 @@ const data = [
     },
 
     {
+        id: 15,
+        title: "Ryver Bank (with Credit Suisse)",
+        desc: "A simple trading application as an introduction to Springboot and building REST APIs. Role: Built accounts and CMS.",
+        repo: "https://github.com/CS203-project/monolithic",
+        skills: ["Maven", "Springboot", "REST", "School"]
+    },
+
+    {
         id: 5,
         title: "Bookstore E-Commerce Application - Ongoing",
         desc: "Project for Cloud Management & Engineering. Working in a team to integrate a microservices application with AWS cloud services.",
